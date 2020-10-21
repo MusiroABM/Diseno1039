@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08803cf8-17b4-4b49-b316-a3407997f45c" name="Default Changelist" comment="" />
+    <list default="true" id="08803cf8-17b4-4b49-b316-a3407997f45c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Armas/Arco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Armas/Desarmado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Armas/Espada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Implementaciones/ImpIArma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Implementaciones/ImpIMontura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/IArma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/IMontura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monturas/Caballo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monturas/Dragon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monturas/SinMontura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Personaje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Personaje.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,11 +26,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ivH7mLyHID2vqFXu1FNudVAHtO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,8 +43,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -38,10 +60,17 @@
       <updated>1602780980539</updated>
       <workItem from="1602780985496" duration="514000" />
       <workItem from="1603297431861" duration="403000" />
+      <workItem from="1603298184419" duration="2524000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1603299126031">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1603299126031" />
   </component>
 </project>
