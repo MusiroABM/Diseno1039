@@ -1,3 +1,5 @@
+package Personajes;
+
 import Enums.Direccion;
 import Enums.TipoPersonaje;
 import Interfaces.IArma;
@@ -5,9 +7,9 @@ import Interfaces.IMontura;
 
 public class Personaje {
     private String nombre;
-    private TipoPersonaje tipoPersonaje;
-    private IArma arma;
-    private IMontura montura;
+    protected TipoPersonaje tipoPersonaje;
+    protected IArma arma;
+    protected IMontura montura;
 
     public Personaje(String nombre){
         this.nombre=nombre;
