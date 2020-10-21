@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
         Caballo caballo = new Caballo();
         Espada espada = new Espada();
-        Caballero caballero = new Caballero("Tomas");
+        Caballero caballero = new Caballero("Tomás");
         caballero.eligeArma(espada);
         caballero.eligeMontura(caballo);
         caballero.info();
