@@ -9,11 +9,11 @@ public class ImpIMontura implements IMontura {
 
     @Override
     public TipoMontura getTipo() {
-        return null;
+        return tipoMontura;
     }
 
     @Override
     public float duracionViaje(int distanciaRecorrida) {
-        return 0;
+        return (distanciaRecorrida/velocidad);
     }
 }

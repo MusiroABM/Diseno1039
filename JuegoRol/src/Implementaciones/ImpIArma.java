@@ -9,11 +9,11 @@ public class ImpIArma implements IArma {
 
     @Override
     public TipoArma getTipo() {
-        return null;
+        return tipo;
     }
 
     @Override
     public int puntosDaño() {
-        return 0;
+        return dmgpoints;
     }
 }

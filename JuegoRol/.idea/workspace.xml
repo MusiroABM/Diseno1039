@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08803cf8-17b4-4b49-b316-a3407997f45c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Armas/Arco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Armas/Desarmado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Armas/Espada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Implementaciones/ImpIArma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Implementaciones/ImpIMontura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/IArma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/IMontura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monturas/Caballo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monturas/Dragon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monturas/SinMontura.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Armas/Arco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Armas/Arco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Armas/Desarmado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Armas/Desarmado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Armas/Espada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Armas/Espada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Implementaciones/ImpIArma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Implementaciones/ImpIArma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Implementaciones/ImpIMontura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Implementaciones/ImpIMontura.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Personaje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Personaje.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,17 +53,41 @@
       <updated>1602780980539</updated>
       <workItem from="1602780985496" duration="514000" />
       <workItem from="1603297431861" duration="403000" />
-      <workItem from="1603298184419" duration="2524000" />
+      <workItem from="1603298184419" duration="3850000" />
     </task>
+    <task id="LOCAL-00001" summary="Avances según enunciado.">
+      <created>1603300778777</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603300778777</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Avances según enunciado." />
+    <option name="LAST_COMMIT_MESSAGE" value="Avances según enunciado." />
   </component>
   <component name="WindowStateProjectService">
     <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1603299126031">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1603299126031" />
+    <state x="406" y="10" key="CommitChangelistDialog2" timestamp="1603300776562">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="406" y="10" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1603300776562" />
+    <state x="361" y="136" key="Vcs.Push.Dialog.v2" timestamp="1603300785058">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="136" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603300785058" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603301971658">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603301971658" />
   </component>
 </project>
