@@ -8,6 +8,8 @@ public class Rectangulo extends  FormaComponent{
         this.y1=y1;
         this.x2=x2;
         this.y2=y2;
+        pos_x=0;
+        pos_y=0;
     }
 
     @Override
