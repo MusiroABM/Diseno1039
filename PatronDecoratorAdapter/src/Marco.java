@@ -11,7 +11,7 @@ public class Marco extends AsciiArtDecorator{
             if(i==0 || i==nuevoAlto-1)
                 nlineas[i]=borde.repeat(nuevoAncho);
             else {
-                nlineas[i]=borde+asciiArt.lineas[i-1]+borde;
+                nlineas[i]=borde+asciiArt.lineas[i-1]+" ".repeat(asciiArt.getAncho()-asciiArt.lineas[i-1].length())+borde;
             }
         }
         lineas=nlineas;

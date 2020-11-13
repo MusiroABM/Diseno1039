@@ -4,7 +4,7 @@ public class Triangulo extends AsciiArt{
         lineas = new String[longitud];
         for (int i=0; i<longitud; i++){
             String clonar = Character.toString(relleno);
-            lineas[i]=clonar.repeat(i+1)+" ".repeat(longitud-i-1);
+            lineas[i]=clonar.repeat(i+1);
         }
     }
 }
