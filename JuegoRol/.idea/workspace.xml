@@ -1,13 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08803cf8-17b4-4b49-b316-a3407997f45c" name="Default Changelist" comment="Save.">
+    <list default="true" id="08803cf8-17b4-4b49-b316-a3407997f45c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Personajes/Caballero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Personajes/Caballero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Personajes/Mago.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Personajes/Mago.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Personajes/Personaje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Personajes/Personaje.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Personajes/Soldado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Personajes/Soldado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JuegoRol/Armas/Arco.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JuegoRol/Armas/Desarmado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JuegoRol/Armas/Espada.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JuegoRol/Enums/Direccion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JuegoRol/Enums/TipoArma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JuegoRol/Enums/TipoMontura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JuegoRol/Enums/TipoPersonaje.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JuegoRol/Implementaciones/ImpIArma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JuegoRol/Implementaciones/ImpIMontura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JuegoRol/Interfaces/IArma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JuegoRol/Interfaces/IMontura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JuegoRol/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JuegoRol/Monturas/Caballo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JuegoRol/Monturas/Dragon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JuegoRol/Monturas/SinMontura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JuegoRol/Personajes/Caballero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JuegoRol/Personajes/Mago.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JuegoRol/Personajes/Personaje.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JuegoRol/Personajes/Soldado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loteria/src/test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +81,9 @@
       <updated>1602780980539</updated>
       <workItem from="1602780985496" duration="514000" />
       <workItem from="1603297431861" duration="403000" />
-      <workItem from="1603298184419" duration="5489000" />
+      <workItem from="1603298184419" duration="6528000" />
+      <workItem from="1604508010913" duration="144000" />
+      <workItem from="1605111983408" duration="38000" />
     </task>
     <task id="LOCAL-00001" summary="Avances según enunciado.">
       <created>1603300778777</created>
@@ -89,7 +106,28 @@
       <option name="project" value="LOCAL" />
       <updated>1603302780618</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="V1.0">
+      <created>1603306154488</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603306154489</updated>
+    </task>
+    <task id="LOCAL-00005" summary="V1.0">
+      <created>1603306637580</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603306637580</updated>
+    </task>
+    <task id="LOCAL-00006" summary="V1.0">
+      <created>1603306703366</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603306703366</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,41 +136,50 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Avances según enunciado." />
     <MESSAGE value="Save." />
-    <option name="LAST_COMMIT_MESSAGE" value="Save." />
+    <MESSAGE value="V1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="V1.0" />
   </component>
   <component name="WindowStateProjectService">
     <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1603299126031">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1603299126031" />
-    <state x="406" y="10" key="CommitChangelistDialog2" timestamp="1603305040964">
+    <state x="406" y="10" key="CommitChangelistDialog2" timestamp="1603306701730">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="406" y="10" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1603305040964" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1603305912870">
+    <state x="406" y="10" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1603306701730" />
+    <state x="702" y="148" key="FileChooserDialogImpl" timestamp="1604508163103">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603305912870" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1603305912870">
+    <state x="702" y="148" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604508163103" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1603306959296">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603305912870" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1603305912870">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603306959296" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1603306959296">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603305912870" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1603305912870">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603306959296" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1603306959295">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603305912870" />
-    <state x="361" y="136" key="Vcs.Push.Dialog.v2" timestamp="1603300785058">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603306959295" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1603306959296">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="136" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603300785058" />
-    <state x="580" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603305044928">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603306959296" />
+    <state x="361" y="136" key="Vcs.Push.Dialog.v2" timestamp="1603306711183">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="580" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1603305044928" />
+    <state x="361" y="136" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603306711183" />
+    <state x="580" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603306491887">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="580" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1603306491887" />
+    <state x="362" y="30" key="new project wizard" timestamp="1604508166053">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="30" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1604508166053" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603301971658">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
